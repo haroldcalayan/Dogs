@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Dogs</string>
+    <string name="requesting">Requesting...</string>
+
+    <!--  Messages  -->
+    <string name="message_generic_error">Please try again later</string>
+    
+    <!--  Main  -->
+    <string name="main_select_breed">Select a dog breed</string>
+    <string-array name="breeds">
+        <item>Breed 1</item>
+        <item>Breed 2</item>
+        <item>Breed 3</item>
+        <item>Breed 4</item>
+        <item>Breed 5</item>
+    </string-array>
 </resources>
